@@ -6,7 +6,7 @@ package to install:
 
 /opt/virtualenvs/python3/bin/python3 -m pip install --upgrade pip
 
-###https://textblob.readthedocs.io/en/dev/install.html###
+### https://textblob.readthedocs.io/en/dev/install.html
 
 Additional package to install:
 :>
